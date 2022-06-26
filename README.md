@@ -2,9 +2,13 @@
 
 LINK to Tableau Public - https://public.tableau.com/app/profile/henry.saliski/viz/ChallengeBikeShare/ChallengeStory?publish=yes
 
+
+The Purpose of this Challenge was to take a text file(CSV) and upload it into Tableau to make data visualizations on specific questions that we were looking for within this challenge.
+
+For this part of the challenge we wanted to find checkout times by users.
 <img width="1353" alt="Checkout Times for Users" src="https://user-images.githubusercontent.com/102257486/175835606-20752097-8a59-43c8-b1d7-31de09b73b8b.png">
 
-
+For this part we acted upon this checkout time by users and added a filter for genders within the checkout times.
 <img width="1352" alt="Checkout Times by Gender" src="https://user-images.githubusercontent.com/102257486/175835612-96c18e60-898f-4b61-ba30-35cfcc52fda0.png">
 
 
